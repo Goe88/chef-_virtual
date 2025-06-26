@@ -1,0 +1,5 @@
+C:/Users/Ana/Desktop/chef virtual/build/CMakeFiles/ChefVirtual.dir
+C:/Users/Ana/Desktop/chef virtual/build/CMakeFiles/TestChefVirtual.dir
+C:/Users/Ana/Desktop/chef virtual/build/CMakeFiles/TestChefVirtual2.dir
+C:/Users/Ana/Desktop/chef virtual/build/CMakeFiles/edit_cache.dir
+C:/Users/Ana/Desktop/chef virtual/build/CMakeFiles/rebuild_cache.dir

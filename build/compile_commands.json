@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ChefVirtual.dir\\src\\main.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\main.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/main.cpp",
+  "output": "CMakeFiles/ChefVirtual.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ChefVirtual.dir\\src\\Recetas.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\Recetas.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/Recetas.cpp",
+  "output": "CMakeFiles/ChefVirtual.dir/src/Recetas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ChefVirtual.dir\\src\\GestorIngredientes.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\GestorIngredientes.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/GestorIngredientes.cpp",
+  "output": "CMakeFiles/ChefVirtual.dir/src/GestorIngredientes.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/ChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ChefVirtual.dir\\src\\GestorRecetas.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\GestorRecetas.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/GestorRecetas.cpp",
+  "output": "CMakeFiles/ChefVirtual.dir/src/GestorRecetas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual.dir\\Test\\test.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\Test\\test.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/Test/test.cpp",
+  "output": "CMakeFiles/TestChefVirtual.dir/Test/test.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual.dir\\src\\GestorIngredientes.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\GestorIngredientes.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/GestorIngredientes.cpp",
+  "output": "CMakeFiles/TestChefVirtual.dir/src/GestorIngredientes.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual.dir\\src\\GestorRecetas.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\GestorRecetas.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/GestorRecetas.cpp",
+  "output": "CMakeFiles/TestChefVirtual.dir/src/GestorRecetas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual.dir\\src\\Recetas.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\Recetas.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/Recetas.cpp",
+  "output": "CMakeFiles/TestChefVirtual.dir/src/Recetas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual2.dir\\Test\\test2.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\Test\\test2.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/Test/test2.cpp",
+  "output": "CMakeFiles/TestChefVirtual2.dir/Test/test2.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual2.dir\\src\\GestorIngredientes.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\GestorIngredientes.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/GestorIngredientes.cpp",
+  "output": "CMakeFiles/TestChefVirtual2.dir/src/GestorIngredientes.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual2.dir\\src\\GestorRecetas.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\GestorRecetas.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/GestorRecetas.cpp",
+  "output": "CMakeFiles/TestChefVirtual2.dir/src/GestorRecetas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ana/Desktop/chef virtual/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/TestChefVirtual2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\TestChefVirtual2.dir\\src\\Recetas.cpp.obj -c \"C:\\Users\\Ana\\Desktop\\chef virtual\\src\\Recetas.cpp\"",
+  "file": "C:/Users/Ana/Desktop/chef virtual/src/Recetas.cpp",
+  "output": "CMakeFiles/TestChefVirtual2.dir/src/Recetas.cpp.obj"
+}
+]

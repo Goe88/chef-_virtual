@@ -1,0 +1,10 @@
+Tortilla francesa:huevo 2 uds,aceite 1 cda,sal 1 pizca
+Ensalada de tomate:tomate 2 uds,aceite 1 cda,sal 1 pizca
+Sandwich de queso:pan 2 rebanadas,queso 1 loncha,mantequilla 1 cda
+Batido de plátano:platano 1 uds,leche 200 ml,azúcar 1 cda
+Pasta con ajo:pasta 100 g,ajo 2 dientes,aceite 2 cdas
+Arroz blanco:arroz 100 g,agua 200 ml,sal 1 pizca
+Huevos revueltos:huevo 2 uds,leche 50 ml,sal 1 pizca
+Tostadas con aguacate:pan 2 rebanadas,aguacate 1 uds,sal 1 pizca
+Sopa de fideos:fideos 50 g,agua 300 ml,caldo 1 cubo
+Ensalada de frutas:manzana 1 uds,banana 1 uds,naranja 1 uds

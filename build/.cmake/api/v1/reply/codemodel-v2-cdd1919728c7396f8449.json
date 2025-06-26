@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ChefVirtual",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ChefVirtual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChefVirtual-Debug-a7d2ed8084026203a9b6.json",
+					"name" : "ChefVirtual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestChefVirtual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestChefVirtual-Debug-5b41e7ad814bbe45300d.json",
+					"name" : "TestChefVirtual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestChefVirtual2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestChefVirtual2-Debug-e4f8e7c82439d96bcc11.json",
+					"name" : "TestChefVirtual2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ana/Desktop/chef virtual/build",
+		"source" : "C:/Users/Ana/Desktop/chef virtual"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
